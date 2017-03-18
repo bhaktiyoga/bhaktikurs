@@ -6,16 +6,16 @@ a {
 	color: #35A49C;
 }
 a:hover {
-	color: #79CDC0;
+	color: #FCBD56;
 }
 
 /* menu */
 .nav>li>a:hover {
-	color: #79CDC0;
+	color: #FCBD56;
 }
 
 .navbar .navbar-nav > .active > a {
-	color: #79CDC0;
+	color: #FCBD56;
 }
 
 /* flexslider */

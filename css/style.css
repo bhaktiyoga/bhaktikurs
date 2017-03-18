@@ -391,7 +391,8 @@ section.section {
 }
 
 .navbar-nav {
-	float: right;
+	float: none;
+	display: inline-block;
 	margin-bottom: 0;
 	padding-bottom:0;	
 }
@@ -438,9 +439,9 @@ h1 a.navbar-brand {
 =========================== */
 
 section.featured {
-	padding: 200px 0 60px;
-	background: #70B9B0;
-	color: #fdfdfd;
+	padding: 100px 0 20px;
+	background: #FCBD56;
+	color: #000000;
 }
 
 section.featured h2.slogan {
