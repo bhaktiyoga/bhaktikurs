@@ -55,10 +55,11 @@ blockquote {
 
 blockquote.bigquote {
 	border: none;
-	font-size: 48px;
+	font-size: 28px;
 	font-weight: 700;
 	line-height: 1.1em;
 }
+
 
 .text-bold {
 	font-weight: 900;
@@ -891,7 +892,7 @@ div.cform-response-output {
  ================= */
 
 section#footer {
-	background: #242424;
+	background: #FCBD56;
 	margin: 0;
 }
 
@@ -926,7 +927,7 @@ ul.footer-menu li {
 a.scrollup{
 	height:32px;
 	width:32px;
-	color:#fff;
+	color:black;
 	font-size:18px;
 	line-height:32px;
 	text-align:center;
@@ -935,7 +936,7 @@ a.scrollup{
 	bottom:10px;
 	right:10px;
 	z-index:9999;
-	opacity:0.5;
+	opacity:0.8;
 }
 a.scrollup:hover{
 	opacity:1;
