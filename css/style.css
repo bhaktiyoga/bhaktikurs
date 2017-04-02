@@ -869,6 +869,11 @@ div.cform-response-output {
 }
 
 /* google map */
+
+
+#mapid { height: 180px; }
+
+
 #google-map{
 	position:relative;
 	margin-top:10px;
