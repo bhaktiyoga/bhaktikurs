@@ -20,7 +20,7 @@ body {
 	background: #f7f7f7;
 	font-size: 16px;
 	line-height: 1.6em;
-	font-weight: 300;
+	font-weight: 500;
 	text-shadow: none;
 }
 
@@ -343,10 +343,14 @@ section.section {
 	background-image: url(../img/parallax/img1.jpg);
 }
 #parallax2{	
-	background-image: url(../img/parallax/img2.jpg);
+	background-image: url(../img/parallax/img1.jpg);
 }
 #testimonials{	
-	background-image: url(../img/parallax/img3.jpg);
+	background-image: url(../img/parallax/img1.jpg);
+}
+
+#parallax3{	
+	background-image: url(../img/parallax/img1.jpg);
 }
 /*===========================
   --- Header & menu ----
@@ -871,7 +875,7 @@ div.cform-response-output {
 /* google map */
 
 
-#mapid { height: 180px; }
+#mapid { height: 400px; }
 
 
 #google-map{
